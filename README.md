@@ -1,30 +1,30 @@
 <div align = "center">
 
-<h1><a href="https://github.com/adityastomar67/StartPoint">Personal Portfolio</a> - Minimalist template repository. ✨🛠</h1>
+<h1><a href="https://github.com/adityastomar67/Portfolio">Personal Portfolio</a></h1>
 
-<a href="https://github.com/adityastomar67/StartPoint/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/adityastomar67/StartPoint?style=flat&color=eee&label="> </a>
+<a href="https://github.com/adityastomar67/Portfolio/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/adityastomar67/Portfolio?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/adityastomar67/StartPoint/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/adityastomar67/StartPoint?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/adityastomar67/Portfolio/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/adityastomar67/Portfolio?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/adityastomar67/StartPoint/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/adityastomar67/StartPoint?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/adityastomar67/Portfolio/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/adityastomar67/Portfolio?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/adityastomar67/StartPoint/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/adityastomar67/StartPoint?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/adityastomar67/Portfolio/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/adityastomar67/Portfolio?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/adityastomar67/StartPoint/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/adityastomar67/StartPoint?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/adityastomar67/Portfolio/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/adityastomar67/Portfolio?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/adityastomar67/StartPoint/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/adityastomar67/StartPoint?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/adityastomar67/Portfolio/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/adityastomar67/Portfolio?style=flat&color=e06c75&label="> </a>
 
 <h3>Short Sweet Headline 🎇🎉</h3>
 
 </div>
 
-StartPoint is a `<utility/tool>` that allows `<target_audience>` to `<some_action>`.
+Portfolio is a `<utility/tool>` that allows `<target_audience>` to `<some_action>`.
 
 ## ✨ Features
 
@@ -42,8 +42,8 @@ StartPoint is a `<utility/tool>` that allows `<target_audience>` to `<some_actio
 ### 🚀 Installation
 
 ```bash
-git clone https://github.com/adityastomar67/StartPoint
-cd StartPoint
+git clone https://github.com/adityastomar67/Portfolio
+cd Portfolio
 <install_command>
 ```
 
@@ -51,9 +51,9 @@ cd StartPoint
 
 ```bash
 USAGE:
-    StartPoint [FLAGS] [OPTIONS]
+    Portfolio [FLAGS] [OPTIONS]
 Example:
-    StartPoint
+    Portfolio
 ```
 
 ## What's Next
@@ -70,7 +70,7 @@ Planning to add `<feature/module>`.
 
 ### 🌈 Inspiration
 
-StartPoint was inspired by `<reason/idea>`.
+Portfolio was inspired by `<reason/idea>`.
 
 ### 💡 Challenges/Learnings
 
@@ -92,7 +92,7 @@ StartPoint was inspired by `<reason/idea>`.
 
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
-<a href="https://github.com/adityastomar67/StartPoint">Source</a>
+<a href="https://github.com/adityastomar67/Portfolio">Source</a>
 | <a href="https://github.com/adityastomar67/" target="_blank">GitHub </a>
 | <a href="https://www.linkedin.com/in/aditya-singh-tomar-3200b31a0/" target="_blank">LinkedIn </a>
 | <a href="https://linktr.ee/adityastomar67" target="_blank">LinkTree </a>
