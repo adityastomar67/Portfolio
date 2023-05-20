@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import { useInView, useMotionValue, useSpring } from 'framer-motion'
 import Head from 'next/head'
 import Image from 'next/image'
+import Github from '@/components/Github'
 import AnimatedText from '@/components/AnimatedText'
 import Skills from '@/components/Skills'
 import Layout from '@/components/Layout'
@@ -78,6 +79,7 @@ const about = () => {
                     </div>
                     <Skills />
                     <Experience />
+                    <Github />
                 </Layout>
             </main>
         </>
